@@ -1,0 +1,34 @@
+{
+  "name": "cordova-nivad-myket",
+  "version": "1.0.0",
+  "description": "Cordova Nivad Myket Plugin",
+  "cordova": {
+    "id": "cordova-nivad-myket",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdplugins/cordova-nivad-myket.git"
+  },
+  "keywords": [
+    "nivad",
+    "plugin",
+    "myket",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Milad Mohammadi Rezagah",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/mdplugins/cordova-nivad-myket/issues"
+  },
+  "homepage": "https://github.com/mdplugins/cordova-nivad-myket#readme"
+}

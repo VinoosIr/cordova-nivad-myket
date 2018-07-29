@@ -2,15 +2,15 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
     id="cordova-nivad-myket"
-    version="1.0.1">
+    version="1.1.1">
 
 	<name>Nivad Myket Plugin</name>
     <description>Cordova Nivad Myket Plugin</description>
     <author>Milad Mohammadi Rezagah</author>
     <license>Apache 2.0</license>
     <keywords>cordova,plugin,nivad,myket</keywords>
-    <repo>https://github.com/mdplugins/cordova-nivad-myket</repo>
-    <issue>https://github.com/mdplugins/cordova-nivad-myket/issues</issue>
+    <repo>https://github.com/vinoosir/cordova-nivad-myket</repo>
+    <issue>https://github.com/vinoosir/cordova-nivad-myket/issues</issue>
 	<engines>
 	    <engine name="cordova" version=">=3.0.0" />
 	</engines>

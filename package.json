@@ -1,6 +1,6 @@
 {
   "name": "cordova-nivad-myket",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "description": "Cordova Nivad Myket Plugin",
   "cordova": {
     "id": "cordova-nivad-myket",
@@ -10,12 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mdplugins/cordova-nivad-myket.git"
+    "url": "git+https://github.com/vinoosir/cordova-nivad-myket.git"
   },
   "keywords": [
     "nivad",
     "plugin",
     "myket",
+    "vinoos",
     "ecosystem:cordova",
     "cordova-android"
   ],
@@ -28,7 +29,7 @@
   "author": "Milad Mohammadi Rezagah",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/mdplugins/cordova-nivad-myket/issues"
+    "url": "https://github.com/vinoosir/cordova-nivad-myket/issues"
   },
-  "homepage": "https://github.com/mdplugins/cordova-nivad-myket#readme"
+  "homepage": "https://github.com/vinoosir/cordova-nivad-myket#readme"
 }
